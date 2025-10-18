@@ -19,5 +19,5 @@ Data: Cleansed and merged Local and Imported drug registration data.
 Model: Decision Tree Classifier with Class Weighting (to overcome data imbalance) to predict manufacturer readiness.
 
 How to Run
-Ensure CSV files (Human Drugs Products Local.csv, etc.) are in the content folder.
+Ensure CSV files (Human Drugs Products Local.csv, Imported human drug products) are in the content folder.
 Run the main script: python SFDA2025.py
